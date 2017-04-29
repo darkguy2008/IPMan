@@ -4,7 +4,12 @@ Since I couldn't find any, I rolled my own, then I decided to share it with you 
 
 *\* Donations are welcome though!* **:D**, [Click here to donate!](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AFC7TFQULJPLN)
 
-<p align="center">
+**Latest version:** 
+
+[Download for x86 (32-bit)](https://github.com/darkguy2008/IPMan/releases/download/20170429.1/x86.IPMan.x86.20170429.1.zip)
+[Download for x64 (64-bit)](https://github.com/darkguy2008/IPMan/releases/download/20170429.1/x64.IPMan.x64.20170429.1.zip)
+
+<p align="center">  
   <p>Screenshot:</p>
   <img src="Screenshot.jpg"/>
 </p>
