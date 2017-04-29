@@ -7,6 +7,7 @@ Since I couldn't find any, I rolled my own, then I decided to share it with you 
 **Latest version:** 
 
 [Download for x86 (32-bit)](https://github.com/darkguy2008/IPMan/releases/download/20170429.1/x86.IPMan.x86.20170429.1.zip)
+
 [Download for x64 (64-bit)](https://github.com/darkguy2008/IPMan/releases/download/20170429.1/x64.IPMan.x64.20170429.1.zip)
 
 <p align="center">  
