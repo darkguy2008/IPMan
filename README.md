@@ -1,8 +1,12 @@
+# IPMan
+
 Are you tired of going through 3 windows and fighting with Windows's clunky IP input interface to change your adapter's IP? Me too!, and while there are powerful PowerShell scripts out there to do so, I'm not very fond of the CLI... I just wanted to make a simple app where I could select my network adapter, change the most common parameters and click a button, that's it!. 
 
 Since I couldn't find any, I rolled my own, then I decided to share it with you all, for FREE\*! :)
 
-*\* Donations are welcome though!* **:D**, [Click here to donate!](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AFC7TFQULJPLN)
+### Is this app useful for you? Consider becoming my patron! :D
+
+[![Patreon](https://darkguy2008.github.io/kyma/patron.png)](https://www.patreon.com/darkguy)
 
 **Latest version:** 
 
