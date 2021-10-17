@@ -6,7 +6,7 @@ Since I couldn't find any, I rolled my own, then I decided to share it with you 
 
 ### Is this app useful for you? Consider becoming my patron! :D
 
-[![Patreon](https://darkguy2008.github.io/kyma/patron.png)](https://www.patreon.com/darkguy)
+[![Patreon](https://darkguy2008.github.io/kyma/patron.png)](https://www.patreon.com/darkguy2008)
 
 **Latest version:** 
 
